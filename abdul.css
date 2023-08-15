@@ -1,0 +1,37 @@
+
+*{
+    background-color: #e8d5ed;
+}
+
+.image{
+    margin-left: 25%;
+    
+}
+#heading{
+    margin-left:auto;
+    font-size: 30px;
+}
+#main{
+    margin-left: 25%;;
+    font-size: 35px;
+}
+.hello{
+    margin: auto;
+  width: 50%;
+  border: px solid rgb(173, 149, 207);
+  padding: 10px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.dives{
+    text-align: center;
+    
+}
+
+.Bio{
+    margin-left: 25% ;
+    font-size: x-large;
+}
+.list{
+    margin-left: 25%;
+}
